@@ -132,6 +132,6 @@ public class VarastoTest {
     public void liianIsoSaldoValuuYli() {
         Varasto varastoTaysi = new Varasto(1, 2);
         
-        assertEquals(1, varastoTaysi.getSaldo(), vertailuTarkkuus);
+        assertEquals(2, varastoTaysi.getSaldo(), vertailuTarkkuus);
     }
 }
