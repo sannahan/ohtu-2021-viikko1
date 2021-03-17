@@ -3,4 +3,4 @@
 [![codecov](https://codecov.io/gh/sannahan/ohtu-2021-viikko1/branch/main/graph/badge.svg?token=G80OSIEFCR)](https://codecov.io/gh/sannahan/ohtu-2021-viikko1)
 
 
-(https://github.com/sannahan/ohtu-tehtavat)
+https://github.com/sannahan/ohtu-tehtavat
